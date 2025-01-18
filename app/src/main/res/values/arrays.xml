@@ -1,0 +1,28 @@
+<resources>
+    <!-- Reply Preference -->
+    <string-array name="reply_entries">
+        <item>Reply</item>
+        <item>Reply to all</item>
+    </string-array>
+
+    <string-array name="reply_values">
+        <item>reply</item>
+        <item>reply_all</item>
+    </string-array>
+    <string-array name="currency_entries">
+        <item>USD</item>
+        <item>CAD</item>
+        <item>DKK</item>
+        <item>SEK</item>
+        <item>NOK</item>
+        <item>GBP</item>
+    </string-array>
+    <string-array name="currency_values">
+        <item>USD</item>
+        <item>CAD</item>
+        <item>DKK</item>
+        <item>SEK</item>
+        <item>NOK</item>
+        <item>GBP</item>
+    </string-array>
+</resources>
